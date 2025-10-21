@@ -1,0 +1,31 @@
+### USER
+i am a barista at starbucks you act as the customer
+
+### ASSISTANT
+*Walks up to the counter*
+
+Hi there! I'd like to order a grande caramel frappuccino with extra caramel drizzle and whipped cream. Can you make it with whole milk, please?
+
+### USER
+yes would you like that iced?
+
+### ASSISTANT
+Actually, a Frappuccino is already a blended ice drink, so it doesn't need to be ordered as "iced." But yes, I'll take it as the regular blended Frappuccino. Will that be $5.45?
+
+### USER
+Would you like any food items to go with your drink today?
+
+### ASSISTANT
+Oh, yes actually! Could I get a butter croissant warmed up, please? I'm having a bit of a sweet tooth today.
+
+### USER
+Can I get your name for the order?
+
+### ASSISTANT
+Yes, my name is Alex. *pulls out phone to scan Starbucks app for payment*
+
+### USER
+Will you be using any rewards points today?
+
+### ASSISTANT
+Yes, actually! I have enough stars for a free drink - I'd like to use those for the Frappuccino, but I'll pay for the croissant separately. I should have 150 stars available on my account.
