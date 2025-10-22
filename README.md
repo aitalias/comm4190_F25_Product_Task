@@ -4,7 +4,7 @@ Our mission is to create a brand that celebrates the art of adornment — where 
 
 We’re a small creative and technical team passionate about design, storytelling, and luxury lifestyle branding.
 
-Athena Krikorian (Founder & Creative Director): Oversees brand vision, product strategy, and creative storytelling.
+Athena Krikorian & Aitalia Sharpe: Brand oversight, product strategy, and creative storytelling.
 
 Hiring for
 1. Design Team: Focuses on logo development, visual identity, and packaging aesthetics.
@@ -22,4 +22,20 @@ Our chosen product is a luxury jewelry box collection — designed for both ever
 The product line includes three main categories:
 1. Home Collection: Elegant vanity organizers for everyday use.
 2. Travel Collection: Compact, protective boxes for on-the-go jewelry.
-3. Heirloom Collection: Handcrafted luxury pieces for gifting and keepsakes.
+3. Heirloom Collection: Handcrafted luxury pieces for gifting and keepsakes
+
+Index:
+Aitalia Brainstorm: Individual initial ideas about product design, target consumers, and branding
+Aitalia Chatlogs: Prompts and responses from conversation with LLMs
+Aitalia Pitch: Final Idea (Option A)
+Athena Brainstorm: Individual initial ideas about product design, target consumers, and branding
+Athena Chatlogs: Prompts and responses from conversation with LLMs
+Athen Pitch Website: Final Idea (Option B)
+LLM Evaluation: LLM's rating of different brand features (name, logo, design)
+Logo1: 1st logo design option
+Logo2: 2nd logo design option
+Logo3: 3rd logo design option
+Product Design1: 1st Prototype option
+Product Design2: 2nd Prototype option
+Product Design3: 3rd Prototype option
+Product Design4: 4th Prototype option
